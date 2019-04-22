@@ -30,4 +30,4 @@ The project will be available at **127.0.0.1:8000**.
 
 
 
-password for superuser : nitwcea@123
+password for superuser : nitwcea@123# ceaProject
